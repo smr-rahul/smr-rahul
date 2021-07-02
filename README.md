@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Chauhan
-- 👀 I’m interested in full/part time mobile app development
+- 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on upwork
+- 💞️ I’m looking to collaborate on full/part time mobile app development and python projects
 - 📫 smr.rahul@gmail.com
 
 <!---
